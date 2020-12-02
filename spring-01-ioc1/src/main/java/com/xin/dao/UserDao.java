@@ -1,5 +1,5 @@
 package com.xin.dao;
 
-public interface userDao {
+public interface UserDao {
     void getUser();
 }
